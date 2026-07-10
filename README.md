@@ -35,7 +35,7 @@ The backend will:
 - Auto-create all tables
 - Auto-create the default admin user (admin/admin123)
 
-**Requirements**: MySQL running on localhost:3306 with user `root` / password `root`
+**Requirements**: MySQL running on localhost:3306 with user `` / password ``
 
 ### 2. Frontend Setup
 ```powershell
